@@ -1,2 +1,2 @@
-# keras-tensorflow
-These are a set of experimental programs using Tensorflow and Keras
+# Keras and Tensorflow
+These are a set of programs using Tensorflow and Keras which will simplify the basic concepts of machine learning.
